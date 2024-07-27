@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/adoni/development/amped_flutter_frontend/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/home/adoni/development/amped_flutter_frontend/android/app/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "3,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,1086",
+                        "endLines": "11,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "744,1250"
+                    },
+                    "to": {
+                        "startLines": "2,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,632",
+                        "endLines": "10,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "627,796"
+                    }
+                },
+                {
+                    "source": "/home/adoni/.gradle/caches/transforms-3/3d75e84d646ad39200ba22b1ce6db082/transformed/appcompat-1.6.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "801,871,955,1039,1135,1237,1339,1433",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "866,950,1034,1130,1232,1334,1428,1517"
+                    }
+                }
+            ]
+        }
+    ]
+}
